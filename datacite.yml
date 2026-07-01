@@ -192,49 +192,77 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 21
-      - name: Shahwar Yasir
+      - name: >-
+          Shahwar Yasir (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 22
-      - name: Yu Kin
+      - name: >-
+          Yu Kin (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 23
-      - name: Peng Ren
+      - name: >-
+          Peng Ren (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 24
-      - name: Dezhong Yao
+      - name: >-
+          Dezhong Yao (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 25
-      - name: Luo Cheng
+      - name: >-
+          Luo Cheng (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 26
-      - name: Roberto Rodriguez-Labrada
+      - name: >-
+          Roberto Rodriguez-Labrada (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 27
-      - name: Pedro Valdés-Sosa
+      - name: >-
+          Pedro Valdés-Sosa (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -326,19 +354,47 @@ data:
           Thelma Luz Carrillo-Alfonso (Pediatric Hospital of Centro Habana,
           Havana, Cuba)
         nameType: Personal
-      - name: Shahwar Yasir
+      - name: >-
+          Shahwar Yasir (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China)
         nameType: Personal
-      - name: Yu Kin
+      - name: >-
+          Yu Kin (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
         nameType: Personal
-      - name: Peng Ren
+      - name: >-
+          Peng Ren (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
         nameType: Personal
-      - name: Dezhong Yao
+      - name: >-
+          Dezhong Yao (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         nameType: Personal
-      - name: Luo Cheng
+      - name: >-
+          Luo Cheng (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         nameType: Personal
-      - name: Roberto Rodriguez-Labrada
+      - name: >-
+          Roberto Rodriguez-Labrada (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         nameType: Personal
-      - name: Pedro Valdés-Sosa
+      - name: >-
+          Pedro Valdés-Sosa (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         nameType: Personal
     descriptions:
       - description: N/A
