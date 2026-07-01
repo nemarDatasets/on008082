@@ -42,5 +42,6 @@
     ],
     "EthicsApprovals": [
         "Ethical permission was obtained from the Ethics Committee of the Cuban Neuroscience Center which also complied with the Ethical Principles for Medical Research Involving Human Subjects outlined in the Helsinki Declaration."
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008082.v1.0.0"
 }
