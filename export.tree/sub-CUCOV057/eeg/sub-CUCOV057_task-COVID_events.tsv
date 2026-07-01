@@ -1,0 +1,16 @@
+onset	duration	trial_type	value	sample
+0.005	0	eyes_closed	65	1
+44.54	0	LLAMANDO	49	8908
+128.085	0	LLAMANDO	49	25617
+481.815	0	eyes_open	66	96363
+490.44	0	eyes_closed	65	98088
+498.815	0	eyes_open	66	99763
+507.45	0	eyes_closed	65	101490
+516.845	0	eyes_open	66	103369
+525.695	0	eyes_closed	65	105139
+534.125	0	eyes_open	66	106825
+542.39	0	eyes_closed	65	108478
+551.38	0	eyes_open	66	110276
+559.755	0	eyes_closed	65	111951
+568.325	0	eyes_open	66	113665
+576.81	0	eyes_closed	65	115362

@@ -1,0 +1,13 @@
+onset	duration	trial_type	value	sample
+0.005	0	eyes_closed	65	1
+481.36	0	eyes_open	66	96272
+493.865	0	eyes_closed	65	98773
+507.165	0	eyes_open	66	101433
+522.08	0	eyes_closed	65	104416
+537.605	0	eyes_open	66	107521
+551.075	0	eyes_closed	65	110215
+564.735	0	eyes_open	66	112947
+577.59	0	eyes_closed	65	115518
+590.725	0	eyes_open	66	118145
+602.105	0	eyes_closed	65	120421
+617.94	0	photic_stimulation	71	123588
