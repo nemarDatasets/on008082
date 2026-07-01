@@ -33,5 +33,8 @@
         "Pedro Valdés-Sosa"
     ],
     "License": "CC0",
-    "Acknowledgements": "The authors want to thank to all EEG technicians from the Clinical Services and psychologists of the Cuban Center for Neurosciences, and the specialists in Psychiatry and Neurology from the Cuban Neurological and Neurosurgical Institute and other hospitals from Havana for their contribution to the assessment to the patients. We would also like to thank to the Clinical Neurophysiology Department of the Hermanos Amejeiras Hospital and the Mental Health Center in Playa municipality for their support in this research"
+    "Acknowledgements": "The authors want to thank to all EEG technicians from the Clinical Services and psychologists of the Cuban Center for Neurosciences, and the specialists in Psychiatry and Neurology from the Cuban Neurological and Neurosurgical Institute and other hospitals from Havana for their contribution to the assessment to the patients. We would also like to thank to the Clinical Neurophysiology Department of the Hermanos Amejeiras Hospital and the Mental Health Center in Playa municipality for their support in this research",
+    "Funding": [
+        "This work was supported by National Key R&D Program of China, (2024YFE0215100), and Chengdu Science and Technology Bureau Program of China under Grant (2022-GH02-00042-HZ)"
+    ]
 }
