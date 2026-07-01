@@ -1,0 +1,279 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: >-
+          Ana Calzada-Reyes (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,Cuban Centre for Neurosciences, Havana, Cuba,China-Cuba
+          Belt and Road Joint Laboratory on Neurotechnology and Brain-Apparatus
+          Communication, University of Electronic Science and Technology of
+          China, Chengdu, China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: >-
+          Eduardo Aubert-Vázquez(Cuban Centre for Neurosciences, Havana,
+          Cuba,Neurodevelopment Research Unit at the Instituto de Neurobiología,
+          Universidad Nacional Autónoma de México )
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Lidice Galán-García
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Maria Luisa Bringas-Vega
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Trinidad Virués-Alba
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Lidia Charroó-Ruiz
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Yanely Acosta-Imás
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Mitchell Valdés-Sosa
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Laura Perez-Mayo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Joel Gutiérrez-Gil
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: Antonio Caballero-Moreno
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
+      - name: Miguel Angel Alvarez
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 12
+      - name: Norge Santiesteban
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 13
+      - name: Javier Vicente Sánchez-Lopez
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 14
+      - name: Annette Valdés-Virués
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 15
+      - name: Elba Elvira Varona-Galindo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 16
+      - name: Elizabeth Méndez-Parra
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 17
+      - name: Joviana Castro-Valiente
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 18
+      - name: Leyanis Ramos-Hernández
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 19
+      - name: Mabel Whilby-Santiesteban
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 20
+      - name: Thelma Luz Carrillo-Alfonso
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 21
+      - name: Shahwar Yasir
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 22
+      - name: Yu Kin
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 23
+      - name: Peng Ren
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 24
+      - name: Dezhong Yao
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 25
+      - name: Luo Cheng
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 26
+      - name: Roberto Rodriguez-Labrada
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 27
+      - name: Pedro Valdés-Sosa
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 28
+    creators:
+      - name: >-
+          Ana Calzada-Reyes (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,Cuban Centre for Neurosciences, Havana, Cuba,China-Cuba
+          Belt and Road Joint Laboratory on Neurotechnology and Brain-Apparatus
+          Communication, University of Electronic Science and Technology of
+          China, Chengdu, China)
+        nameType: Personal
+      - name: >-
+          Eduardo Aubert-Vázquez(Cuban Centre for Neurosciences, Havana,
+          Cuba,Neurodevelopment Research Unit at the Instituto de Neurobiología,
+          Universidad Nacional Autónoma de México )
+        nameType: Personal
+      - name: Lidice Galán-García
+        nameType: Personal
+      - name: Maria Luisa Bringas-Vega
+        nameType: Personal
+      - name: Trinidad Virués-Alba
+        nameType: Personal
+      - name: Lidia Charroó-Ruiz
+        nameType: Personal
+      - name: Yanely Acosta-Imás
+        nameType: Personal
+      - name: Mitchell Valdés-Sosa
+        nameType: Personal
+      - name: Laura Perez-Mayo
+        nameType: Personal
+      - name: Joel Gutiérrez-Gil
+        nameType: Personal
+      - name: Antonio Caballero-Moreno
+        nameType: Personal
+      - name: Miguel Angel Alvarez
+        nameType: Personal
+      - name: Norge Santiesteban
+        nameType: Personal
+      - name: Javier Vicente Sánchez-Lopez
+        nameType: Personal
+      - name: Annette Valdés-Virués
+        nameType: Personal
+      - name: Elba Elvira Varona-Galindo
+        nameType: Personal
+      - name: Elizabeth Méndez-Parra
+        nameType: Personal
+      - name: Joviana Castro-Valiente
+        nameType: Personal
+      - name: Leyanis Ramos-Hernández
+        nameType: Personal
+      - name: Mabel Whilby-Santiesteban
+        nameType: Personal
+      - name: Thelma Luz Carrillo-Alfonso
+        nameType: Personal
+      - name: Shahwar Yasir
+        nameType: Personal
+      - name: Yu Kin
+        nameType: Personal
+      - name: Peng Ren
+        nameType: Personal
+      - name: Dezhong Yao
+        nameType: Personal
+      - name: Luo Cheng
+        nameType: Personal
+      - name: Roberto Rodriguez-Labrada
+        nameType: Personal
+      - name: Pedro Valdés-Sosa
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
