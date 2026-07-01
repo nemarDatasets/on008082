@@ -1,0 +1,60 @@
+{
+  "version": "2.0",
+  "dataset_id": "on008082",
+  "source": "openneuro",
+  "source_id": "ds008082",
+  "title": "A COVID-19 survivors and close contacts EEG dataset",
+  "authors": {
+    "Ana Calzada-Reyes": {},
+    "Eduardo Aubert-Vázquez": {},
+    "Lidice Galán-García": {},
+    "Maria Luisa Bringas-Vega": {},
+    "Trinidad Virués-Alba": {},
+    "Lidia Charroó-Ruiz": {},
+    "Yanely Acosta-Imás": {},
+    "Mitchell Valdés-Sosa": {},
+    "Laura Perez-Mayo": {},
+    "Joel Gutiérrez-Gil": {},
+    "Antonio Caballero-Moreno": {},
+    "Miguel Angel Alvarez": {},
+    "Norge Santiesteban": {},
+    "Javier Vicente Sánchez-Lopez": {},
+    "Annette Valdés-Virués": {},
+    "Elba Elvira Varona-Galindo": {},
+    "Elizabeth Méndez-Parra": {},
+    "Joviana Castro-Valiente": {},
+    "Leyanis Ramos-Hernández": {},
+    "Mabel Whilby-Santiesteban": {},
+    "Thelma Luz Carrillo-Alfonso": {},
+    "Shahwar Yasir": {},
+    "Yu Kin": {},
+    "Peng Ren": {},
+    "Dezhong Yao": {},
+    "Luo Cheng": {},
+    "Roberto Rodriguez-Labrada": {},
+    "Pedro Valdés-Sosa": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds008082.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.6.0",
+  "recording_modality": [
+    "eeg"
+  ],
+  "datatypes": [
+    "eeg"
+  ],
+  "funding_references": [
+    {
+      "funder_name": "This work was supported by National Key R&D Program of China, (2024YFE0215100), and Chengdu Science and Technology Bureau Program of China under Grant (2022-GH02-00042-HZ)"
+    }
+  ],
+  "acknowledgements": "The authors want to thank to all EEG technicians from the Clinical Services and psychologists of the Cuban Center for Neurosciences, and the specialists in Psychiatry and Neurology from the Cuban Neurological and Neurosurgical Institute and other hospitals from Havana for their contribution to the assessment to the patients. We would also like to thank to the Clinical Neurophysiology Department of the Hermanos Amejeiras Hospital and the Mental Health Center in Playa municipality for their support in this research"
+}
