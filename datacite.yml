@@ -26,84 +26,109 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: Lidice Galán-García
+      - name: >-
+          Lidice Galán-García(Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Maria Luisa Bringas-Vega
+      - name: >-
+          Maria Luisa Bringas-Vega (The Clinical Hospital of Chengdu Brain
+          Sciences Institute, University of Electronic Science and Technology of
+          China, Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Trinidad Virués-Alba
+      - name: Trinidad Virués-Alba (Cuban Centre for Neurosciences, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
-      - name: Lidia Charroó-Ruiz
+      - name: >-
+          Lidia Charroó-Ruiz (Cuban Centre for Neurosciences, Havana,
+          Cuba,Centro Habana Community Mental Health Center, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 6
-      - name: Yanely Acosta-Imás
+      - name: Yanely Acosta-Imás (Cuban Centre for Neurosciences, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 7
-      - name: Mitchell Valdés-Sosa
+      - name: >-
+          Mitchell Valdés-Sosa (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China),
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 8
-      - name: Laura Perez-Mayo
+      - name: Laura Perez-Mayo (Cuban Centre for Neurosciences, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 9
-      - name: Joel Gutiérrez-Gil
+      - name: >-
+          Joel Gutiérrez-Gil (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 10
-      - name: Antonio Caballero-Moreno
+      - name: >-
+          Antonio Caballero-Moreno (Psychiatric Clinic “Gali Garcia”, National
+          Hospital, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 11
-      - name: Miguel Angel Alvarez
+      - name: >-
+          Miguel Angel Alvarez (Institute of Neurology and Neurosurgical.
+          Havana. Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 12
-      - name: Norge Santiesteban
+      - name: >-
+          Norge Santiesteban (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 13
-      - name: Javier Vicente Sánchez-Lopez
+      - name: >-
+          Javier Vicente Sánchez-Lopez (Institute of Neurology and
+          Neurosurgical. Havana. Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -222,29 +247,54 @@ data:
           Cuba,Neurodevelopment Research Unit at the Instituto de Neurobiología,
           Universidad Nacional Autónoma de México )
         nameType: Personal
-      - name: Lidice Galán-García
+      - name: >-
+          Lidice Galán-García(Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         nameType: Personal
-      - name: Maria Luisa Bringas-Vega
+      - name: >-
+          Maria Luisa Bringas-Vega (The Clinical Hospital of Chengdu Brain
+          Sciences Institute, University of Electronic Science and Technology of
+          China, Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         nameType: Personal
-      - name: Trinidad Virués-Alba
+      - name: Trinidad Virués-Alba (Cuban Centre for Neurosciences, Havana, Cuba)
         nameType: Personal
-      - name: Lidia Charroó-Ruiz
+      - name: >-
+          Lidia Charroó-Ruiz (Cuban Centre for Neurosciences, Havana,
+          Cuba,Centro Habana Community Mental Health Center, Havana, Cuba)
         nameType: Personal
-      - name: Yanely Acosta-Imás
+      - name: Yanely Acosta-Imás (Cuban Centre for Neurosciences, Havana, Cuba)
         nameType: Personal
-      - name: Mitchell Valdés-Sosa
+      - name: >-
+          Mitchell Valdés-Sosa (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China),
         nameType: Personal
-      - name: Laura Perez-Mayo
+      - name: Laura Perez-Mayo (Cuban Centre for Neurosciences, Havana, Cuba)
         nameType: Personal
-      - name: Joel Gutiérrez-Gil
+      - name: >-
+          Joel Gutiérrez-Gil (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
         nameType: Personal
-      - name: Antonio Caballero-Moreno
+      - name: >-
+          Antonio Caballero-Moreno (Psychiatric Clinic “Gali Garcia”, National
+          Hospital, Havana, Cuba)
         nameType: Personal
-      - name: Miguel Angel Alvarez
+      - name: >-
+          Miguel Angel Alvarez (Institute of Neurology and Neurosurgical.
+          Havana. Cuba)
         nameType: Personal
-      - name: Norge Santiesteban
+      - name: >-
+          Norge Santiesteban (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
         nameType: Personal
-      - name: Javier Vicente Sánchez-Lopez
+      - name: >-
+          Javier Vicente Sánchez-Lopez (Institute of Neurology and
+          Neurosurgical. Havana. Cuba)
         nameType: Personal
       - name: Annette Valdés-Virués
         nameType: Personal
