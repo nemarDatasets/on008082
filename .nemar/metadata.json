@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "dataset_id": "on008082",
-  "source": "openneuro",
-  "source_id": "ds008082",
+  "pipeline_stage": "enriched",
   "title": "A COVID-19 survivors and close contacts EEG dataset",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Ana Calzada-Reyes": {},
     "Eduardo Aubert-Vázquez": {},
@@ -29,32 +29,95 @@
     "Shahwar Yasir": {},
     "Yu Kin": {},
     "Peng Ren": {},
-    "Dezhong Yao": {},
+    "Dezhong Yao": {
+      "orcid": "0000-0002-8042-879X"
+    },
     "Luo Cheng": {},
     "Roberto Rodriguez-Labrada": {},
     "Pedro Valdés-Sosa": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds008082.v1.0.0",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "10.1016/j.cnp.2026.02.007",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on008082",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on008082",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1016/j.cnp.2024.02.007",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.6.0",
-  "recording_modality": [
-    "eeg"
-  ],
-  "datatypes": [
-    "eeg"
   ],
   "funding_references": [
     {
-      "funder_name": "This work was supported by National Key R&D Program of China, (2024YFE0215100), and Chengdu Science and Technology Bureau Program of China under Grant (2022-GH02-00042-HZ)"
+      "funder_name": "National Key R&D Program of China",
+      "award_number": "2024YFE0215100"
+    },
+    {
+      "funder_name": "Chengdu Science and Technology Bureau",
+      "award_number": "2022-GH02-00042-HZ"
     }
   ],
-  "acknowledgements": "The authors want to thank to all EEG technicians from the Clinical Services and psychologists of the Cuban Center for Neurosciences, and the specialists in Psychiatry and Neurology from the Cuban Neurological and Neurosurgical Institute and other hospitals from Havana for their contribution to the assessment to the patients. We would also like to thank to the Clinical Neurophysiology Department of the Hermanos Amejeiras Hospital and the Mental Health Center in Playa municipality for their support in this research"
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "0.0 KB (1 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".md",
+    ".tsv",
+    ".yml"
+  ],
+  "description": "This dataset comprises 173 resting-state electroencephalograms (EEGs) from 86 healthy control subjects and 87 COVID-19 survivors, acquired using the standard 10-20 electrode montage. The study investigates electrophysiological signatures associated with COVID-19 infection and recovery by comparing EEG patterns between survivors and close contacts against a Cuban normative database. Resting recordings were obtained under standardized conditions including eyes-closed and eyes-open states.",
+  "methods_description": "EEG was acquired using a 10-20 standard montage. Resting EEG was recorded for 8 minutes with eyes closed in all participants. Additional recordings included 2 minutes of alternating closed and open eyes, followed by 2 minutes of recovery.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "COVID-19"
+    },
+    {
+      "term": "resting-state"
+    },
+    {
+      "term": "electroencephalography"
+    },
+    {
+      "term": "neurophysiology"
+    },
+    {
+      "term": "post-COVID syndrome"
+    },
+    {
+      "term": "Cuba"
+    },
+    {
+      "term": "normative database"
+    },
+    {
+      "term": "close contacts"
+    }
+  ],
+  "source_hash": "a144de277c30855bd88ca686d2b5461ef85f401b5d28fcc8777fcbfbfe4c8ae2"
 }
