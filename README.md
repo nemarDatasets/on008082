@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on008082-blue)](https://doi.org/10.82901/nemar.on008082)
+
 July 1st 2026
 Cuban Neuroscience Center
 
