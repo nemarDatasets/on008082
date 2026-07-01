@@ -1,0 +1,13 @@
+onset	duration	trial_type	value	sample
+0.005	0	eyes_closed	65	1
+5.16	0	discontinuity	2	1032
+484.77	0	eyes_open	66	96954
+497.47	0	eyes_closed	65	99494
+508.535	0	eyes_open	66	101707
+521.085	0	eyes_closed	65	104217
+532.935	0	eyes_open	66	106587
+546.405	0	eyes_closed	65	109281
+559.365	0	eyes_open	66	111873
+571.28	0	eyes_closed	65	114256
+583.08	0	eyes_open	66	116616
+596.325	0	eyes_closed	65	119265
