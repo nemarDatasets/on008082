@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "A COVID-19 survivors and close contacts EEG dataset",
-  "description": "This dataset comprises 173 resting-state electroencephalography (EEG) recordings from COVID-19 survivors (n=87) and close contacts/healthy controls (n=86), acquired using standard 10-20 electrode montage. The study investigates EEG signatures associated with COVID-19 infection and recovery, contributing to understanding of neurophysiological alterations in post-COVID conditions. Recordings include 8 minutes of eyes-closed resting state followed by alternating eye-open/closed conditions, providing comprehensive baseline neurophysiological characterization.",
-  "methods_description": "EEG was acquired using a 10-20 standard montage. Resting EEG was recorded for 8 minutes with eyes closed in all participants. Additional recordings included 2 minutes of alternating closed and open eyes, followed by 2 minutes of recovery.",
+  "description": "This dataset comprises 173 resting-state electroencephalograms (EEGs) from COVID-19 survivors (n=87) and close contacts/healthy controls (n=86), acquired using standard 10-20 electrode montage. The study characterizes EEG signatures associated with COVID-19 infection and recovery, contributing to understanding of neurophysiological alterations in post-acute COVID-19 syndrome. Data were collected at the Cuban Center for Neurosciences with ethical approval from institutional review boards.",
+  "methods_description": "EEG recordings were acquired using a 10-20 standard montage. Resting-state EEG was recorded for 8 minutes with eyes closed, followed by 2 minutes of alternating closed and open eyes, and 2 minutes of recovery.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -49,19 +49,22 @@
       "term": "resting-state"
     },
     {
-      "term": "neurophysiology"
-    },
-    {
-      "term": "post-COVID syndrome"
-    },
-    {
       "term": "electroencephalography"
     },
     {
-      "term": "healthy controls"
+      "term": "neurophysiology"
     },
     {
-      "term": "recovery"
+      "term": "post-acute COVID-19 syndrome"
+    },
+    {
+      "term": "long COVID"
+    },
+    {
+      "term": "post-COVID neurophysiology"
+    },
+    {
+      "term": "healthy controls"
     },
     {
       "term": "neurophysiological alterations"
@@ -115,7 +118,7 @@
     "eeg"
   ],
   "sizes": [
-    "0.0 KB (176 files)"
+    "1.2 GB (176 files)"
   ],
   "formats": [
     ".edf",
